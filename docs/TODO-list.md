@@ -11,6 +11,6 @@
   + Colocar Tag de Pessoas na Tab
 + Manage News: Deixar mais explícito que está deletando/adicionando, e por um modal para confirmar
 + Deploy: Configurar para fazer deploy no Travis CLI, e depois para o Heroku, assim só vai precisar de um único push, para o git
-+ Documentar com Swagger (ViewSet)..
++ Documentar com Swagger (ViewSet)...
 
 ## DID
