@@ -171,3 +171,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # Activate Django-Heroku.
 import django_heroku
 django_heroku.settings(locals())
+del DATABASES['default']['OPTIONS']['sslmode'] 
