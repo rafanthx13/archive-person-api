@@ -1,9 +1,6 @@
 # archive-person-api
 
-## Env
+## Configurar ambiente
 
-crie `.env` na pasta do projeto `archive_api/` no mesmo formato que ``.tmeplate/env`
+Crie `.env` na pasta do projeto `archive_api/` formato do arquivo`.template/env`. Coloque as variáveis do env.
 
-Ponhas as configuraçoes
-
-e ponha as variaveis
